@@ -32,7 +32,10 @@
 ----
 
 ### Notion
-* __[백준 문제 풀이 모음집](https://dynamic-tadpole-682.notion.site/Python-3d1001b5ed6241208e5b513577aad413)__  
+* __[백준 문제 풀이 모음집](https://dynamic-tadpole-682.notion.site/Python-3d1001b5ed6241208e5b513577aad413)__
+
+* __[정처기 오답 정리](https://dynamic-tadpole-682.notion.site/f2c55666d35b4c8da30df35e447c10d3?pvs=74)__
+
 ----
 
 <!-- ### Certifications 
@@ -41,12 +44,6 @@
 > * __그래프와 추천시스템 (2023.03.31) / [boostcamp](https://www.boostcourse.org/)__
 > * __LG Aimers 4기(2024.03.05) / [LG Aimers 4기](https://github.com/devhyuk96/LG-Aimers-4/blob/main/LG%20AI.pdf)__ -->
 
-
-### Tech Stack 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjlee9908&langs_count=20&layout=compact&theme=white)](https://github.com/sjlee9908)
-
----
 
 ### Baekjoon Algorithm 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlee9908)](https://solved.ac/sjlee9908/)
@@ -57,7 +54,7 @@
 
 ----
 
-### Stats
+### GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjlee9908&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
