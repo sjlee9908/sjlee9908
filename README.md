@@ -32,9 +32,11 @@
 ----
 
 ### Notion
-* __[백준 문제 풀이 모음집](https://dynamic-tadpole-682.notion.site/Python-3d1001b5ed6241208e5b513577aad413)__
+* __[Notion home](https://sunrise-ermine-1a3.notion.site/sjlee9908-s-Notion-19549ea9c8724b73ab3d9cfa684771f3)__
 
-* __[정처기 오답 정리](https://dynamic-tadpole-682.notion.site/f2c55666d35b4c8da30df35e447c10d3?pvs=74)__
+* __[백준 문제 풀이 모음집](https://sunrise-ermine-1a3.notion.site/Python-c0b90b286b9e49e6a13555a0e3b4e835)__
+
+* __[정처기 오답 정리](https://sunrise-ermine-1a3.notion.site/0871f14d61db43b285025bd51d6506d2)__
 
 ----
 
