@@ -25,7 +25,7 @@
     
 ### Competitions & Project
 > * __한국정보통신학회논문지 게재: 원형 스마트폰 잠금 패턴 방식 제안, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09271364)__  / 2019.11
-> * __학술 소모임 지원 프로그램 :  성과공유대회 우수상 수상, [수상자 명단](https://hansung.ac.kr/bbs/hansung/143/251790/artclView.do?layout=unknown)__  / 2022.12
+> * __학술 소모임 지원 프로그램 : 성과공유대회 우수상 수상, [수상자 명단](https://hansung.ac.kr/bbs/hansung/143/251790/artclView.do?layout=unknown)__  / 2022.12
 > * __수학 문화체험 프로그램 운영 사업 :  매쓰투어 앱개발 챌린지 우수상 수상, [수상자 명단](http://www.ksme.info/notice/view.asp?key=344)__  / 2023.10
 > * __메타버스 디지털 트윈 기반 소아청소년 비만 자가 건강관리 서비스 개발, [한국보건산업진흥원](https://www.khidi.or.kr/kps)__ / 2022.07 ~ 2024.01
 > * __한국정보통신학회논문지 게재: 다중 DNN 모델 벤치마킹을 위한 MLPerf, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11820417)__ / 2024.06
