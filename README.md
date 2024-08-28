@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient)
 
-
-
 # Sjlee9908 's CV
 
 <h3 align="center">🛠 TECH STACK 🛠</h3>
@@ -24,10 +22,12 @@
 
 ### 🏢Work Experiences(경력)
 > * __한성대 iClab 학부연구생, [iClab](https://sites.google.com/view/iclab-hansung)__ / 2023.01 ~ 
+
 ---
     
 ### 🖥️Project(프로젝트)
 > * __메타버스 디지털 트윈 기반 소아청소년 비만 자가 건강관리 서비스 개발, [한국보건산업진흥원](https://www.khidi.or.kr/kps)__ / 2022.07 ~ 2024.01
+> * __엘라스틱 서치를 이용한 부동산 검색 웹 서비스 개발, [한성대캡스톤 Github](https://github.com/24-1-Hansung-Capstone)__ / 2023.12 ~ 2024.06
 ----
 
 ### 🏆Awards(수상)
@@ -41,7 +41,7 @@
 > * __한국정보통신학회논문지 게재: 다중 DNN 모델 벤치마킹을 위한 MLPerf, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11820417)__ / 2024.06
 ----
 
-###  🪪Certifications 
+###  🪪Certifications(자격증)
 > * __토익 Speaking IM (2023.11.20) / [한국TOEIC위원회](https://m.toeicswt.co.kr/)__
 ----
 
