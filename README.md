@@ -32,28 +32,26 @@
 ----
 
 ### 🏆Awards(수상)
-> * __학술 소모임 지원 프로그램 : 성과공유대회 우수상 수상, [수상자 명단](https://hansung.ac.kr/bbs/hansung/143/251790/artclView.do?layout=unknown)__  / 2022.12
-> * __수학 문화체험 프로그램 운영 사업 :  매쓰투어 앱개발 챌린지 우수상 수상, [수상자 명단](http://www.ksme.info/notice/view.asp?key=344)__  / 2023.10
-> * __제 10 회 창의융합성과 경진대회 :  금상 수상, [수상자 명단]()__  / 2024.08
+> * __학술 소모임 지원 프로그램__ : 성과공유대회 우수상 수상(드론프로젝트 팀), [수상자 명단](https://hansung.ac.kr/bbs/hansung/143/251790/artclView.do?layout=unknown)  / 2022.12
+> * __수학 문화체험 프로그램 운영 사업__ :  매쓰투어 앱개발 챌린지 우수상 수상(한수교 팀), [수상자 명단](https://github.com/user-attachments/assets/253acfc9-b198-4dea-9075-c4c0003b2e8c) / 2023.10
+> * __제 10 회 창의융합성과 경진대회__  :  금상 수상(거북이 팀), [수상자 명단](https://github.com/user-attachments/assets/e21f954f-2e25-48b5-8aa4-345e2cf564df) / 2024.08
 
 
 ----
 
 ### 📑Papers(논문)
-> * __한국정보통신학회논문지 게재: 원형 스마트폰 잠금 패턴 방식 제안, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09271364)__  / 2019.11
-> * __한국정보통신학회논문지 게재: 다중 DNN 모델 벤치마킹을 위한 MLPerf, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11820417)__ / 2024.06
+> * __한국정보통신학회논문지 게재__: 원형 스마트폰 잠금 패턴 방식 제안, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09271364)  / 2019.11
+> * __한국정보통신학회논문지 게재__: 다중 DNN 모델 벤치마킹을 위한 MLPerf, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11820417) / 2024.06
 ----
 
 ###  🪪Certifications(자격증)
-> * __토익 Speaking IM (2023.11.20) / [한국TOEIC위원회](https://m.toeicswt.co.kr/)__
+> * __토익 Speaking IM3 (2023.11.20) / [자격증](https://github.com/user-attachments/assets/14245d9d-4706-4942-9acf-d3db8d7cd947)__
 ----
 
 ### ✏️Notion
-* __[Notion home](https://sunrise-ermine-1a3.notion.site/sjlee9908-s-Notion-19549ea9c8724b73ab3d9cfa684771f3)__
-
-* __[백준 문제 풀이 모음집](https://sunrise-ermine-1a3.notion.site/Python-c0b90b286b9e49e6a13555a0e3b4e835)__
-
-* __[정처기 오답 정리](https://sunrise-ermine-1a3.notion.site/0871f14d61db43b285025bd51d6506d2)__
+> * __[Notion home](https://sunrise-ermine-1a3.notion.site/sjlee9908-s-Notion-19549ea9c8724b73ab3d9cfa684771f3)__
+> * __[백준 문제 풀이 모음집](https://sunrise-ermine-1a3.notion.site/Python-c0b90b286b9e49e6a13555a0e3b4e835)__
+> * __[정처기 오답 정리](https://sunrise-ermine-1a3.notion.site/0871f14d61db43b285025bd51d6506d2)__
 
 ----
 
@@ -61,9 +59,6 @@
 ### 💯Baekjoon Algorithm 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlee9908)](https://solved.ac/sjlee9908/)
 * __[백준 문제 풀이 모음집](https://dynamic-tadpole-682.notion.site/Python-3d1001b5ed6241208e5b513577aad413)__  
-<br>
-
-
 
 ----
 
