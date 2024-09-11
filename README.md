@@ -26,8 +26,8 @@
 ---
     
 ### 🖥️Project(프로젝트)
-> * __메타버스 디지털 트윈 기반 소아청소년 비만 자가 건강관리 서비스 개발, [한국보건산업진흥원](https://www.khidi.or.kr/kps)__ / 2022.07 ~ 2024.01
-> * __엘라스틱 서치를 이용한 부동산 검색 웹 서비스 개발, [한성대캡스톤 Github](https://github.com/24-1-Hansung-Capstone)__ / 2023.12 ~ 2024.06
+> * __메타버스 디지털 트윈 기반 소아청소년 비만 자가 건강관리 서비스 개발__, [한국보건산업진흥원](https://www.khidi.or.kr/kps) / 2022.07 ~ 2024.01
+> * __엘라스틱 서치를 이용한 부동산 검색 웹 서비스 개발__, [한성대캡스톤 Github](https://github.com/24-1-Hansung-Capstone) / 2023.12 ~ 2024.06
 
 ----
 
@@ -45,7 +45,8 @@
 ----
 
 ###  🪪Certifications(자격증)
-> * __토익 Speaking IM3 (2023.11.20) / [자격증](https://github.com/user-attachments/assets/14245d9d-4706-4942-9acf-d3db8d7cd947)__
+> * __토익 Speaking IM3 (2023.11.20)__ / [자격증](https://github.com/user-attachments/assets/255cc151-8952-443a-b196-f309f5932407)
+> * __정보처리기사 (2024.09.10)__ / [자격증](https://github.com/user-attachments/assets/51c32d2e-d449-45ff-8792-0c415dd18f5d)
 ----
 
 ### ✏️Notion
@@ -58,7 +59,7 @@
 
 ### 💯Baekjoon Algorithm 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlee9908)](https://solved.ac/sjlee9908/)
-* __[백준 문제 풀이 모음집](https://dynamic-tadpole-682.notion.site/Python-3d1001b5ed6241208e5b513577aad413)__  
+* __[백준 문제 풀이 모음집](https://sunrise-ermine-1a3.notion.site/Python-c0b90b286b9e49e6a13555a0e3b4e835)__  
 
 ----
 
