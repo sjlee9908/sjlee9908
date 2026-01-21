@@ -16,18 +16,20 @@
     
 ---
 ### 🎓 Education(학력)
-> * __한성대학교 학사과정, [IT융합공학부](https://hansung.ac.kr/gshansung/6079/subview.do)__ / 2019.03 ~  2025.02.02
+> * __한성대학교 학사과정, [IT융합공학부](https://hansung.ac.kr/gshansung/6079/subview.do)__ / 2019.03 ~ 2025.02.02
+> * __한성대학교 석사과정, [AI응용학과](https://hansung.ac.kr/gshansung/8341/subview.do)__ / 2025.03 ~ 
 ---
 
 
 ### 🏢Work Experiences(경력)
-> * __한성대 iClab 학부연구생, [iClab](https://sites.google.com/view/iclab-hansung)__ / 2023.01 ~ 2025.02.02
+> * __한성대 Iclab 학부연구생, [Iclab-hansung](https://sites.google.com/view/iclab-hansung)__ / 2023.01 ~ 2025.02.02
+> * __한성대 Iclab 석사연구생, [Iclab-hansung](https://sites.google.com/view/iclab-hansung)__ / 2023.01 ~ 2025.02.02
 ---
     
 ### 🖥️Project(프로젝트)
 > * __메타버스 디지털 트윈 기반 소아청소년 비만 자가 건강관리 서비스 개발__, [한국보건산업진흥원](https://www.khidi.or.kr/kps) / 2022.07 ~ 2024.01
-
 > * __엘라스틱 서치를 이용한 부동산 검색 웹 서비스 개발__, [한성대캡스톤 Github](https://github.com/24-1-Hansung-Capstone) / 2023.12 ~ 2024.06
+
 
 ----
 
@@ -35,13 +37,16 @@
 > * __학술 소모임 지원 프로그램__ : 성과공유대회 우수상 수상(드론프로젝트 팀), [수상자 명단](https://hansung.ac.kr/bbs/hansung/143/251790/artclView.do?layout=unknown)  / 2022.12
 > * __수학 문화체험 프로그램 운영 사업__ :  매쓰투어 앱개발 챌린지 우수상 수상(한수교 팀), [수상자 명단](https://github.com/user-attachments/assets/253acfc9-b198-4dea-9075-c4c0003b2e8c) / 2023.10
 > * __제 10 회 창의융합성과 경진대회__  :  금상 수상(거북이 팀), [수상자 명단](https://github.com/user-attachments/assets/e21f954f-2e25-48b5-8aa4-345e2cf564df) / 2024.08
-> * __제 20회 공학경진대회__  :  동상 수상(작품명 : 음성 위변조 탐지 포렌식), [수상자 명단](https://www.hansung.ac.kr/bbs/hs-engineering-competition/1216/263997/artclView.do) / 2024.09
+> * __제 20 회 공학경진대회__  :  동상 수상(작품명 : 음성 위변조 탐지 포렌식), [수상자 명단](https://www.hansung.ac.kr/bbs/hs-engineering-competition/1216/263997/artclView.do) / 2024.09
 
 ----
 
 ### 📑Papers(논문)
-> * __한국정보통신학회논문지 게재__: 원형 스마트폰 잠금 패턴 방식 제안, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09271364)  / 2019.11
-> * __한국정보통신학회논문지 게재__: 다중 DNN 모델 벤치마킹을 위한 MLPerf, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11820417) / 2024.06
+> * __한국정보통신학회논문지__: 원형 스마트폰 잠금 패턴 방식 제안, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09271364)  / 2019.11
+> * __한국정보통신학회논문지__: 다중 DNN 모델 벤치마킹을 위한 MLPerf, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11820417) / 2024.06
+> * __한국정보통신학회논문지__: 다중 워크로드 환경에서 거대 언어 모델 실행속도 향상, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12018353) / 2024.12
+> * __한국정보통신학회논문지__: 플렌옵틱 비디오에서 다중 객체 추적 성능 최적화, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12018352) / 2024.12
+> * __한국정보통신학회논문지__: 보안성 강화된 다중 블록체인 지원 암호화폐 지갑 개발, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12038858) / 2025.01
 ----
 
 ###  🪪Certifications(자격증)
@@ -55,21 +60,7 @@
 > * __[정처기 오답 정리](https://sunrise-ermine-1a3.notion.site/0871f14d61db43b285025bd51d6506d2)__
 
 ----
-
-
-### 💯Baekjoon Algorithm 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlee9908)](https://solved.ac/sjlee9908/)
-* __[백준 문제 풀이 모음집](https://sunrise-ermine-1a3.notion.site/Python-c0b90b286b9e49e6a13555a0e3b4e835)__  
-
-----
-
 ### 📈GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjlee9908&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjlee9908&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sjlee9908&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
