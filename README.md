@@ -29,7 +29,8 @@
 ### 🖥️Project(프로젝트)
 > * __메타버스 디지털 트윈 기반 소아청소년 비만 자가 건강관리 서비스 개발__, [한국보건산업진흥원](https://www.khidi.or.kr/kps) / 2022.07 ~ 2023.01
 > * __엘라스틱 서치를 이용한 부동산 검색 웹 서비스 개발__, [한성대캡스톤 Github](https://github.com/24-1-Hansung-Capstone) / 2023.12 ~ 2024.06
-> * __블록체인 검증자 운영에 최적화된 플랫폼 개발__, [중소기업 기술개발(R&D) 지원사업](https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1055498)/ 2024.01 ~ 2025.06
+> * __Anamwallet 개발__, [제품 페이지](https://anam145.io/ko/anam-wallet/) / 2024.06 ~ 2025.07
+> * __블록체인 검증자 운영에 최적화된 플랫폼 개발__, [중소기업 기술개발(R&D) 지원사업](https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1055498)/ 2025.01 ~ 2025.06
 > * __Graph Neural Network 기반 AI 워크로드 스케줄링__, [삼성전자 Samsung Research](https://www.samsung.com/sec/about-us/business-area/r-and-d-center/), 2025.06 ~ 2025.12
 
 ----
