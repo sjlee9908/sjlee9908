@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient)
 
-# sjlee9908 's CV
+# sjlee9908's Github
 
 <h3 align="center">🛠 TECH STACK 🛠</h3>
 <p align="center">
@@ -39,6 +39,8 @@
 > * __수학 문화체험 프로그램 운영 사업__ :  매쓰투어 앱개발 챌린지 우수상 수상(한수교 팀), [수상자 명단](https://github.com/user-attachments/assets/253acfc9-b198-4dea-9075-c4c0003b2e8c) / 2023.10
 > * __제 10 회 창의융합성과 경진대회__  :  금상 수상(거북이 팀), [수상자 명단](https://github.com/user-attachments/assets/e21f954f-2e25-48b5-8aa4-345e2cf564df) / 2024.08
 > * __제 20 회 공학경진대회__  :  동상 수상(작품명 : 음성 위변조 탐지 포렌식), [수상자 명단](https://www.hansung.ac.kr/bbs/hs-engineering-competition/1216/263997/artclView.do) / 2024.09
+> * __최우수한성인재장학금__ : 최우수성적(총 900만원 상당)
+> * __우수한성역량장학금__ : 우수성적(총 370만원 상당)
 > * __서울미래인재장학재단__ : AI 서울테크 대학원 장학생 선정(500만원), [공고](https://www.hissf.or.kr/home/kor/M821806781/scholarship/business/view.do?idx=cb00d1a0008a85e71a41b8741facbffe2dbd6a77a20eb1b71e36951b400f8100&act=%5Bobject+HTMLInputElement%5D&searchValue4=&searchValue1=&searchValue2=&eSearchValue1=&searchValue3=&searchKeyword=&pageIndex=1) / 2025.09
 
 ----
@@ -49,7 +51,7 @@
 > * __한국정보통신학회 논문지__: 다중 워크로드 환경에서 거대 언어 모델 실행속도 향상, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12018353) / 2024.12
 > * __한국정보통신학회 논문지__: 플렌옵틱 비디오에서 다중 객체 추적 성능 최적화, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12018352) / 2024.12
 > * __한국정보통신학회 논문지__: 보안성 강화된 다중 블록체인 지원 암호화폐 지갑 개발, [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12038858) / 2025.01
-<!-- > *__대한전자공학회 논문지__: 다변량 시계열 이상 탐지를 통한 블록체인 검증자 신뢰성 확보, [DBPia]() -->
+> * __대한전자공학회 논문지__: 다변량 시계열 이상 탐지를 통한 블록체인 검증자 신뢰성 확보, [DBPia](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003304258)
 ----
 
 ###  🪪Certifications(자격증)
